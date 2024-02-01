@@ -63,6 +63,10 @@
 /* --------------- styling hero section --------------- */
 
 
+
+/* ---------- box 1 starts ---------- */
+
+
 #main{
     background-color: #000000;
     height: 700px;
@@ -83,6 +87,9 @@
 .introduction p{
     font-size: 15px;
 }
+
+
+/* ------ box 2 starts ---------- */
 
 .restaurant{
     text-align: center;
@@ -119,3 +126,182 @@
     padding-top: 20px;
 }
 
+
+/* --------- box 3 starts --------- */
+
+
+.sp-franchise{
+    background-color: #000000;
+    height: 1000px; /* have to change */
+}
+
+
+.sp-franchise span{
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.sp-franchise h4{
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.sp-franchise img{
+    width: 530px;
+    height: 220px;
+}
+
+
+.spf-content{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+
+
+.spf-content-box1{
+    width: 480px;
+}
+
+
+.spf-content span{
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.spf-content h3{
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.spf-content p{
+    font-size: 13px;
+}
+
+.spf-content-box1 h3{
+    padding-bottom: 20px;
+}
+
+
+/* ---------- box 4 starts ---------- */
+
+
+.sp-express{
+    background-color: #000000;
+    height: 600px;
+}
+
+
+.sp-express span{
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    font-size: 33px;
+}
+
+
+.sp-express-content{
+    display: flex;
+    justify-content: space-evenly;
+    /* align-items: start; */
+    padding-top: 60px;
+}
+
+
+.sp-express h3{
+    font-size: 28px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.sp-express p{
+    text-align: center;
+    font-size: 16px;
+    margin-top: -10px;
+
+}
+
+.sp-express-content img{
+    width: 540px;
+    height: 350px;
+}
+
+.para p{
+    width: 550px;
+    font-size: 12px;
+    text-align: justify;
+    margin-left: -40px;
+}
+
+
+/* ---------- box 5 starts ------------ */
+
+
+.sp-express-flex{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    gap: 30px;
+    padding: 10px 70px;
+    
+}
+
+
+.sp-express-franchise{
+    background-color: #000000;
+    height: 1100px;
+}
+
+
+.sp-express-franchise span{
+    font-family: 'Caveat', cursive;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.sp-express-franchise h4{
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.sp-express-franchise-box{
+    background-color: #0F0F0F;
+    width: 350px;
+    height: 430px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.sp-express-franchise-box img{
+    width: 320px;
+    height: 270px;
+    padding-bottom: 15px;
+}
+
+.sp-express-franchise-box span{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.sp-express-franchise-box p{
+    font-size: 13px;
+    padding-top: 15px;
+    /* font-weight: 400; */
+    padding-bottom: 15px;
+}
+
+.sp-express-franchise-box a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 13px;
+    /* padding-top: 30px; */
+}
