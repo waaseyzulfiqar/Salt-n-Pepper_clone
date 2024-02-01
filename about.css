@@ -25,7 +25,7 @@
 }
 
 .nav-menu{
-    width: 52%;
+    width: 55%;
     /* margin-left: 150px; */
     padding-left: 150px;
 }
@@ -100,7 +100,7 @@
 .restaurant h2{
     padding-bottom: 20px;
     font-weight: 500;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .sp-restaurant{
@@ -118,12 +118,16 @@
 }
 
 .sp-restaurant-content{
-    width: 520px;
+    width: 490px;
 }
 
 .sp-restaurant-content p{
     font-size: 13px;
     padding-top: 20px;
+}
+
+.margin-left{
+    margin-left: -45px;
 }
 
 
@@ -215,6 +219,7 @@
     font-size: 28px;
     font-weight: 500;
     text-align: center;
+    padding-top: 30px;
 }
 
 .sp-express p{
@@ -243,7 +248,7 @@
 .sp-express-flex{
     display: flex;
     flex-wrap: wrap;
-    /* justify-content: center; */
+    /* justify-content: space-evenly; */
     gap: 30px;
     padding: 10px 70px;
     
@@ -263,7 +268,7 @@
 }
 
 .sp-express-franchise h4{
-    font-size: 30px;
+    font-size: 27px;
     font-weight: 500;
     text-align: center;
     padding: 30px 0px;
@@ -271,7 +276,7 @@
 
 .sp-express-franchise-box{
     background-color: #0F0F0F;
-    width: 350px;
+    width: 336px;
     height: 430px;
     text-align: center;
     padding: 20px;
@@ -281,7 +286,7 @@
 }
 
 .sp-express-franchise-box img{
-    width: 320px;
+    width: 295px;
     height: 270px;
     padding-bottom: 15px;
 }

@@ -24,7 +24,7 @@
 }
 
 .nav-menu{
-    width: 52%;
+    width: 55%;
     /* margin-left: 150px; */
     padding-left: 150px;
 }
@@ -411,7 +411,7 @@
 
 .vf-img img{
     width: 600px;
-    height: 400px;
+    height: 350px;
 }
 
 .vf-content h3{
@@ -499,7 +499,7 @@
 }
 
 .pics img{
-    width: 230px;
+    width: 220px;
     height: 230px;
     margin-left: 16px;
     cursor: pointer;
