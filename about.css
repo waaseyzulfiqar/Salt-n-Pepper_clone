@@ -98,9 +98,24 @@
 
 .sp-restaurant{
     background-color: #000000;
-    height: 700px;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 40px;
 }
 
 .sp-restaurant img{
-    height: 420px;
+    height: 340px;
+    width: 540px;
 }
+
+.sp-restaurant-content{
+    width: 520px;
+}
+
+.sp-restaurant-content p{
+    font-size: 13px;
+    padding-top: 20px;
+}
+
