@@ -70,7 +70,6 @@
     background-image: url(./Assets/horizontal\ hero\ section\ pic.webp);
     background-size: cover;
     height: 510px;
-    width: 1280px;
 }
 
 .hero-welcome{
@@ -322,7 +321,6 @@
 
 #franchise-2{
     background-color: #000000;
-    width: 1250px;
     height: 2100px;
     color: #ffffff;
     padding-top: 80px;
